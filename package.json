@@ -1,0 +1,24 @@
+{
+  "name": "web_aut_viesturs_karlivans_md2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Viesturs11/WEB_AUT_Viesturs_Karlivans_MD2.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Viesturs11/WEB_AUT_Viesturs_Karlivans_MD2/issues"
+  },
+  "homepage": "https://github.com/Viesturs11/WEB_AUT_Viesturs_Karlivans_MD2#readme",
+  "devDependencies": {
+    "cypress": "^14.3.2"
+  }
+}
